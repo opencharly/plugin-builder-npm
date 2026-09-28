@@ -1,7 +1,5 @@
-version: 2026.232.0520
 plugin-builder-npm:
     candy:
-        version: 2026.182.0200
         description: |-
             OUT-OF-TREE charly plugin serving the `npm` builder's BUILD-TIME multi-stage (OpResolve)
             + its DEPLOY-TIME IR shim. A standalone Go module dispatching to the shared
